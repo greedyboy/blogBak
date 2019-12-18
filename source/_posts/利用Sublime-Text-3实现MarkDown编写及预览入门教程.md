@@ -39,6 +39,7 @@ date: 2018-04-15 02:33:26
 - 同时按住`ctrl + shift + P`，弹出的输入框 
 - 输入框中输入`package control install`然后按`回车`
 - 等待出现一个会话框，在会话框里面输入`markdown preview`，然后按`回车`
+    - 如果不出现对话框，而是出现错误，则需要修改
 - 等待在软件底部`状态栏`里面会有信息显示，稍等后就会成功。
 - 重启软件，可以进行相关配置
 - 配置方法：点击顶部菜单`Preferences`->`Package Setting`->`Markdown Preview`->`Setting Default`
